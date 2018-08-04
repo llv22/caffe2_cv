@@ -61,3 +61,6 @@ Download https://caffe2.ai/static/datasets/shakespeare.txt to that folder
   python char_rnn.py --train_data shakespeare.txt --gpu
   ```
 
+
+## 2. Pytorch/Caffe2 version
+ - 2018-08-04: **0.5.0a** (Current version)
